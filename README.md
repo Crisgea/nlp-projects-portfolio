@@ -10,4 +10,5 @@
 Toate proiectele folosesc Hugging Face Transformers și rulează nativ pe Apple Silicon.
 
 Site: https://cristinageafar.com  
-GitHub: https://github.com/cristinageafar
+GitHub: https://github.com/cristinageafargit commit -m "4 NLP projects: sentiment, QA, translator, Mistral 7B local"
+
