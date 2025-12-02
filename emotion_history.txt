@@ -1,0 +1,983 @@
+
+---
+Time: 2025-12-02 11:32:57.464681
+Text: Here is a 100-word text that reflects joy with a hint of surprise and neutral calm:
+{
+    "main_emotion": "joy",
+    "confidence": 0.85,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.7
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.15
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.05
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:32:58.320715
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": null,
+            "score": 0
+        },
+        {
+            "emotion": null,
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:41.695759
+Text: Here is a new 200-word text in English about cats:
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:42.534839
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": null,
+            "score": 0
+        },
+        {
+            "emotion": null,
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:43.565979
+Text: Cats move through the world with a quiet confidence that fascinates anyone who watches them closely. Their soft paws make almost no sound, yet their presence fills a room instantly. Whether they are stretching lazily in a patch of sunlight or leaping gracefully onto a high shelf, cats seem to exist in a perfect balance between calm and curiosity.
+{
+    "main_emotion": "joy",
+    "confidence": 0.98,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.98
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.02
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:44.474494
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:45.524038
+Text: Each cat has a personality as distinct as any human’s. Some are bold explorers, eager to investigate every corner of the house. Others prefer peaceful routines, curling up on a favorite blanket and observing life from a safe distance. Even the shyest cats reveal their trust in small, meaningful ways—a slow blink, a gentle purr, or the moment they choose to sit beside you.
+{
+    "main_emotion": "joy",
+    "confidence": 0.98,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.98
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.01
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.01
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:46.431832
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:47.451240
+Text: Cats communicate with subtlety. A swishing tail, a twitching ear, or a perfectly timed meow can express hunger, excitement, or a desire for affection. They form deep bonds with the people who care for them, offering companionship that feels both independent and warm.
+{
+    "main_emotion": "joy",
+    "confidence": 0.88,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.68
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.12
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.08
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:33:48.349663
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "neutral",
+            "score": 0
+        },
+        {
+            "emotion": "neutral",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:30.835585
+Text: Here is a new 200-word text in English about cats:
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:31.699471
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "none",
+            "score": 0
+        },
+        {
+            "emotion": "unknown",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:32.732139
+Text: Cats move through the world with a quiet confidence that fascinates anyone who watches them closely. Their soft paws make almost no sound, yet their presence fills a room instantly. Whether they are stretching lazily in a patch of sunlight or leaping gracefully onto a high shelf, cats seem to exist in a perfect balance between calm and curiosity.
+{
+    "main_emotion": "joy",
+    "confidence": 0.96,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.96
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.02
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.01
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:33.476858
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "none",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:34.518677
+Text: Each cat has a personality as distinct as any human’s. Some are bold explorers, eager to investigate every corner of the house. Others prefer peaceful routines, curling up on a favorite blanket and observing life from a safe distance. Even the shyest cats reveal their trust in small, meaningful ways—a slow blink, a gentle purr, or the moment they choose to sit beside you.
+{
+    "main_emotion": "joy",
+    "confidence": 0.85,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.72
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.06
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.05
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:35.428994
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:36.449235
+Text: Cats communicate with subtlety. A swishing tail, a twitching ear, or a perfectly timed meow can express hunger, excitement, or a desire for affection. They form deep bonds with the people who care for them, offering companionship that feels both independent and warm.
+{
+    "main_emotion": "joy",
+    "confidence": 0.89,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.89
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.07
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.02
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:36:37.344072
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "neutral",
+            "score": 0
+        },
+        {
+            "emotion": "neutral",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:08.662606
+Text: Here is a new 200-word text in English about cats:
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "none",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:09.376880
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": null,
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:10.387955
+Text: Cats move through the world with a quiet confidence that fascinates anyone who watches them closely. Their soft paws make almost no sound, yet their presence fills a room instantly. Whether they are stretching lazily in a patch of sunlight or leaping gracefully onto a high shelf, cats seem to exist in a perfect balance between calm and curiosity.
+{
+    "main_emotion": "joy",
+    "confidence": 0.92,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.92
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.04
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.02
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:11.284943
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:12.336647
+Text: Each cat has a personality as distinct as any human’s. Some are bold explorers, eager to investigate every corner of the house. Others prefer peaceful routines, curling up on a favorite blanket and observing life from a safe distance. Even the shyest cats reveal their trust in small, meaningful ways—a slow blink, a gentle purr, or the moment they choose to sit beside you.
+{
+    "main_emotion": "joy",
+    "confidence": 0.91,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.91
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.04
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.01
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:13.084239
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": null,
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:14.098161
+Text: Cats communicate with subtlety. A swishing tail, a twitching ear, or a perfectly timed meow can express hunger, excitement, or a desire for affection. They form deep bonds with the people who care for them, offering companionship that feels both independent and warm.
+{
+    "main_emotion": "joy",
+    "confidence": 0.85,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.45
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.25
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.15
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:40:14.999361
+Text: 
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:42:39.873104
+Text: Living with a cat teaches patience, tenderness, and attention to the quiet details of daily life. Their beauty, mystery, and playful spirit remind us that even the simplest moments can feel magical when shared with a feline friend.cd /Users/cristinageafar/Desktop/NLP_Projects
+{
+    "main_emotion": "joy",
+    "confidence": 0.85,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.45
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.23
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.12
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:42:40.862441
+Text: /Users/cristinageafar/nlp_env/bin/python /Users/cristinageafar/Desktop/NLP_Projects/sentiment_analyzer_llama.py
+{
+    "main_emotion": "neutral",
+    "confidence": 0.99,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 0.99
+        },
+        {
+            "emotion": "anger",
+            "score": 0.005
+        },
+        {
+            "emotion": "sadness",
+            "score": 0.002
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:51.139785
+Text: Text în spaniolă (50 de cuvinte):
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "joy",
+            "score": 0.04
+        },
+        {
+            "emotion": "sadness",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:52.148459
+Text: La imaginación es un puente hacia mundos infinitos. Cada persona lleva dentro un universo lleno de sueños, colores y emociones. Cuando compartimos nuestras ideas con los demás, creamos conexiones especiales que inspiran y transforman. La vida se vuelve más rica cuando permitimos que la creatividad guíe nuestro camino diario.
+{
+    "main_emotion": "joy",
+    "confidence": 0.98,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.98
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.01
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.01
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:53.006531
+Text: ⸻
+{
+    "main_emotion": "neutral",
+    "confidence": 1,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1
+        },
+        {
+            "emotion": "neutral",
+            "score": 0
+        },
+        {
+            "emotion": "neutral",
+            "score": 0
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:53.970096
+Text: Poveste în engleză despre copii și pisici (≈300 de cuvinte):
+{
+    "main_emotion": "surprise",
+    "confidence": 0.81,
+    "top_3": [
+        {
+            "emotion": "surprise",
+            "score": 0.81
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.14
+        },
+        {
+            "emotion": "joy",
+            "score": 0.05
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:54.784630
+Text: In a small, sun-lit village surrounded by rolling green hills, a group of children spent every afternoon playing in a quiet courtyard behind their school. The courtyard was ordinary in every way—except for one magical detail: it was home to a family of friendly, unusually clever cats.
+{
+    "main_emotion": "joy",
+    "confidence": 0.96,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.96
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.04
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:55.789745
+Text: The children adored these cats. Every day after class, they brought tiny treats, colorful strings, and homemade cardboard toys. The cats, in return, followed them around like curious little guardians. Among them was Luna, a fluffy white kitten with bright blue eyes who seemed to understand everything the children said.
+{
+    "main_emotion": "joy",
+    "confidence": 0.98,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.98
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.01
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.01
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:56.850082
+Text: One afternoon, as the children prepared a makeshift obstacle course out of boxes and chalk lines, a sudden windstorm blew through the courtyard. Papers flew, chalk dust filled the air, and the smallest child, Emily, lost her backpack in the commotion. The children searched everywhere, but the wind had pushed the backpack beyond the yard, down a narrow path leading toward the woods.
+{
+    "main_emotion": "fear",
+    "confidence": 0.86,
+    "top_3": [
+        {
+            "emotion": "fear",
+            "score": 0.86
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.08
+        },
+        {
+            "emotion": "sadness",
+            "score": 0.04
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:57.858197
+Text: Just when the children began to worry, Luna darted forward, followed by the other cats. The children chased after them, calling out encouragement. Luna stopped near a fallen log and began pawing at something buried under leaves. It was Emily’s backpack—completely safe.
+{
+    "main_emotion": "joy",
+    "confidence": 0.87,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.73
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.14
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.04
+        }
+    ]
+}
+
+---
+Time: 2025-12-02 11:43:58.878578
+Text: The children cheered, hugging the cats one by one. In that moment, they realized that their bond was more than simple friendship. The cats weren’t just pets; they were part of the group, protectors who watched over them with quiet bravery.
+{
+    "main_emotion": "joy",
+    "confidence": 0.93,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 0.93
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.04
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.03
+        }
+    ]
+}
+
+---
+2025-12-02 11:46:59.416338
+TEXT:
+Here is a new 200-word text in English about cats:
+{
+    "main_emotion": "neutral",
+    "confidence": 0.5,
+    "top_3": [
+        "neutral",
+        "curiosity",
+        "boredom"
+    ]
+}
+
+---
+2025-12-02 13:06:45.971665
+TEXT:
+Here is a 100-word text that reflects joy with a hint of surprise and neutral calm:
+{
+    "main_emotion": "neutral",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1.0
+        }
+    ]
+}
+
+---
+2025-12-02 13:09:25.267216
+TEXT:
+Joy rushed in like a bright spark, warm and uplifting, filling the moment with a light that felt almost unexpected. It was the kind of happiness that makes your heart rise before your mind even understands why. There was a touch of surprise in how quickly everything seemed brighter—the colors, the sounds, even the quiet air around you. Yet beneath the excitement, a calm stillness remained, steady and grounding. This blend of joyful energy and gentle serenity created a feeling both vibrant and peaceful, as if life had offered a small, beautiful gift you hadn’t seen coming but instantly cherished.
+{
+    "main_emotion": "neutral",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1.0
+        }
+    ]
+}
+
+---
+2025-12-02 13:13:36.070609
+TEXT:
+Joy burst into the moment like a bright celebration, filling everything with energy and excitement. I felt a rush of happiness so strong it almost surprised me, as if the world suddenly opened its arms. Colors seemed vivid, sounds sparkled, and every breath felt alive. I couldn’t stop smiling—joy kept rising, warm and electric, spreading through my whole body. It was impossible to ignore or soften; it demanded to be felt. The moment glowed with pure delight, unexpected but completely welcome, transforming an ordinary second into something unforgettable.
+{
+    "main_emotion": "neutral",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1.0
+        }
+    ]
+}
+
+---
+2025-12-02 13:14:16.461613
+TEXT:
+Joy burst into the moment like a bright celebration, filling everything with energy and excitement. I felt a rush of happiness so strong it almost surprised me, as if the world suddenly opened its arms. Colors seemed vivid, sounds sparkled, and every breath felt alive. I couldn’t stop smiling—joy kept rising, warm and electric, spreading through my whole body. It was impossible to ignore or soften; it demanded to be felt. The moment glowed with pure delight, unexpected but completely welcome, transforming an ordinary second into something unforgettable.
+{
+    "main_emotion": "neutral",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 1.0
+        }
+    ]
+}
+
+---
+2025-12-02 13:37:33.900733
+TEXT:
+Joy exploded through me with bright, unmistakable energy. I felt an immediate lift, a powerful wave of happiness that lit up everything around me. My heart raced with excitement, and I couldn’t stop smiling. Every sound felt cheerful, every movement sparkled with positivity. It was pure, vivid joy—strong, warm, and completely alive. Even the smallest details seemed amazing, surprising me with how wonderful they felt. There was no calm or doubt, only a glowing sense of delight taking over the moment. Joy filled the air, bold and unstoppable, turning the experience into something truly exhilarating.
+{
+    "main_emotion": "joy",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 1.0
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.8
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.0
+        }
+    ]
+}
+
+---
+2025-12-02 13:38:02.599796
+TEXT:
+Here is a new 200-word text in English about cats:
+{
+    "main_emotion": "neutral",
+    "confidence": 0.95,
+    "top_3": [
+        {
+            "emotion": "neutral",
+            "score": 0.9
+        },
+        {
+            "emotion": "joy",
+            "score": 0.04
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.03
+        }
+    ]
+}
+
+---
+2025-12-02 13:43:30.298690
+TEXT:
+the cat is very sad
+{
+    "main_emotion": "sadness",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "sadness",
+            "score": 1.0
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.0
+        },
+        {
+            "emotion": "fear",
+            "score": 0.0
+        }
+    ]
+}
+
+---
+2025-12-02 13:44:01.916574
+TEXT:
+the cat and the dog are playing happily into the garden
+{
+    "main_emotion": "joy",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "joy",
+            "score": 1.0
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.0
+        },
+        {
+            "emotion": "surprise",
+            "score": 0.0
+        }
+    ]
+}
+
+---
+2025-12-02 13:44:31.920275
+TEXT:
+the cat and crying
+{
+    "main_emotion": "sadness",
+    "confidence": 1.0,
+    "top_3": [
+        {
+            "emotion": "sadness",
+            "score": 1.0
+        },
+        {
+            "emotion": "neutral",
+            "score": 0.0
+        },
+        {
+            "emotion": "fear",
+            "score": 0.0
+        }
+    ]
+}
