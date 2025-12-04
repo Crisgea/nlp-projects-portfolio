@@ -58,7 +58,3 @@ Website: https://cristinageafar.com
 GitHub: https://github.com/Crisgea
 
 ⭐ If you like this repository, please give it a Star!
-
-⸻
-
-Spune „gata” când ai făcut copy-paste, și mergem la următorul pas dacă vrei.
