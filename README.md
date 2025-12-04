@@ -1,9 +1,3 @@
-Iată textul EXACT, complet, curat, pe care îl copiezi în README.md din folderul principal al repo-ului tău (NLP_Projects).
-
-Tot ce este mai jos copiezi integral, fără să adaugi sau să scoți ceva.
-
-⸻
-
 📚 NLP Projects Portfolio – Cristina Geafar
 
 5+ fully local NLP projects running on Mac Studio M3 Ultra
